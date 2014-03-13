@@ -1,0 +1,2 @@
+module.exports.mockCookie = ''
+module.exports.mockModhash = ''

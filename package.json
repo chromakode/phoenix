@@ -1,0 +1,27 @@
+{
+    "name": "phoenix",
+    "description": "a fast experimental reddit mobile web frontend",
+    "author": "Max Goodman",
+    "version": "0.0.1",
+    "dependencies": {
+        "zefram": "chromakode/zefram",
+        "express": "*",
+        "q": "1.0.0",
+        "request": "*",
+        "browser-request": "*",
+        "raw-body": "*",
+        "moment": "*",
+        "handlebars": "~1.3.0"
+    },
+    "devDependencies": {
+        "gulp": "*",
+        "gulp-browserify": "*",
+        "gulp-uglify": "*",
+        "gulp-less": "*",
+        "hbsfy": "~1.3.0"
+    },
+    "browser": {
+        "request": "browser-request",
+        "handlebars": "hbsfy/runtime"
+    }
+}

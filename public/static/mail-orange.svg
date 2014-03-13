@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   id="svg4571"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="mail-orange.svg">
+  <defs
+     id="defs4573" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4"
+     inkscape:cx="21.289468"
+     inkscape:cy="-0.39738232"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-page="true"
+     inkscape:window-width="1099"
+     inkscape:window-height="721"
+     inkscape:window-x="438"
+     inkscape:window-y="390"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata4576">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1020.3622)">
+    <g
+       style="stroke-width:2.37277937;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0.86709768,0,0,0.86709768,-620.64357,1204.0353)"
+       id="g4693">
+      <path
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.37277937;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 717.59049,-182.86243 0,-21.03962 33.25894,0 0,21.03962"
+         id="path4695"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <g
+         style="stroke:#737373;stroke-width:2.37277937;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="g4697">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4699"
+           d="m 717.43444,-183.27374 10.68412,-9.76665"
+           style="fill:none;stroke:#ff4500;stroke-width:2.37277934;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;color:#000000" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4701"
+           d="m 750.8346,-183.27374 -10.68411,-9.76665"
+           style="fill:none;stroke:#ff4500;stroke-width:2.37277934;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;color:#000000" />
+        <path
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc"
+           id="path4703"
+           d="m 716.95766,-203.99705 14.96383,14.53849 4.60425,0 14.96382,-14.53849"
+           style="fill:none;stroke:#ff4500;stroke-width:2.37277934;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;color:#000000" />
+        <rect
+           style="fill:none;stroke:#ff4500;stroke-width:2.37277936999999994;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect4705"
+           width="34.531898"
+           height="21.24856"
+           x="716.95764"
+           y="-203.99706" />
+      </g>
+    </g>
+  </g>
+</svg>

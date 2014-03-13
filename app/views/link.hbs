@@ -1,0 +1,13 @@
+<div class="arrow-box">
+  <button class="arrow up">upvote</button>
+  <button class="arrow down">downvote</button>
+</div>
+<div class="entry">
+  <a class="comments" href="{{permalink}}">{{num_comments}}</a>
+  <a class="title" href="{{url}}">{{title}}</a><a class="domain" href="/domain/{{domain}}">{{domain}}</a>
+  <div class="tagline">
+    <span>from <a class="subreddit" href="/r/{{subreddit}}">/r/{{subreddit}}</a></span>
+    {{timestamp_ago created_utc}}
+    <span>by <a class="author" href="/user/{{author}}">{{author}}</a></span>
+  </div>
+</div>
